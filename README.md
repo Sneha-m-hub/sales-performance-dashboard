@@ -16,3 +16,4 @@ This project presents a sales performance dashboard built using Power BI to anal
 - SQL
 
 ## Dashboard Preview
+
